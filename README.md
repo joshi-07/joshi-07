@@ -60,7 +60,7 @@
   <a href="mailto:sughoshajoshi07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
   <a href="https://github.com/joshi-07"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
   <a href="https://www.linkedin.com/in/sughosha-joshi"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://www.instagram.com/your_instagram"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.instagram.com/sughosha_joshi_07/"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
 </p>
 
 ---
