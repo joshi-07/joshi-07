@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/assets/lines/line-blue.svg" width="400" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&reversal=true"/>
 </p>
 
 <!-- Badges and Views -->
@@ -21,13 +21,13 @@
 🎓 **Engineering Student** | 💻 **Full-Stack Developer** | 🎨 **Creative Designer**  
 
 💡 Passionate about crafting **interactive, clean, and aesthetic web experiences**.  
-🌱 Currently exploring **GSAP**, **Tailwind CSS**, and **AI-based Web Integration**.  
-🎮 Loves **gaming**, **minimal UI**, and **turning creative ideas into code**.  
+🌱 Currently exploring **GSAP**, **Tailwind CSS**, and **AI-based Web Integrations**.  
+🎮 Loves **gaming**, **minimal UI**, and **turning creative ideas into reality**.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20UI%2FUX-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Learning-GSAP%20%7C%20Tailwind-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Goal-Build%20AI%20Integrated%20Web%20Apps-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-AI%20Integrated%20Web%20Apps-green?style=flat-square" />
 </p>
 
 ---
@@ -43,12 +43,12 @@
 
 - 🌀 **GSAP Animations** for next-level UI motion  
 - 🎨 **Tailwind CSS** for responsive modern design  
-- 🤖 **AI Automation & Web APIs** integration  
+- 🤖 **AI & Automation APIs** for smarter web apps  
 
 **2025 Goals:**
-- 🚀 Build an AI-based productivity project  
-- 🧩 Contribute to Open Source  
-- 💼 Launch personal developer portfolio site  
+- 🚀 Build an **AI-based productivity tool**  
+- 🧩 Contribute to **open-source**  
+- 💼 Launch **personal dev portfolio website**  
 
 ---
 
@@ -68,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshi-07&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joshi-07&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joshi-07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joshi-07&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
 </p>
 
 <p align="center">
@@ -82,19 +82,17 @@
 
 ---
 
-## 🪄 GitHub Activity Snake (Upgraded)
+## 🪄 GitHub Activity Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshi-07/joshi-07/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshi-07/joshi-07/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/joshi-07/joshi-07/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
-> 🐍 *The snake now uses a modern gradient color and smooth motion path.*
-
-*(To enable this upgraded snake animation, I’ll show setup steps below.)*
+> 🐍 *Animated snake showcasing your daily contributions in a neon gradient style.*
 
 ---
 
@@ -103,7 +101,7 @@
 - 🕹️ Can debug faster with Lo-Fi beats 🎧  
 - ☕ Fueled entirely by caffeine and curiosity  
 - 💭 Believes **“Good design is invisible, great design is emotional.”**  
-- 🧩 Writes clean code with a hint of chaos energy  
+- ⚡ Writes clean code with a hint of chaos energy  
 
 ---
 
@@ -128,5 +126,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
