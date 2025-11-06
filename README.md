@@ -1,95 +1,132 @@
-<!-- ✨ Animated Intro -->
+<!-- 🌌 Animated Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sughosha+K+Joshi;Full-Stack+Developer+%7C+Designer;Turning+Ideas+Into+Reality+Through+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sughosha+K+Joshi!;Full-Stack+Developer+%26+Creative+Designer;Turning+Ideas+into+Reality+Through+Code;Design+✨+Code+⚙️+Innovate+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/assets/lines/line-blue.svg" width="400" />
 </p>
 
 <!-- Badges and Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joshi-07&&style=flat-square&color=blue" alt="profile views" />
-  <img src="https://img.shields.io/github/stars/joshi-07?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=blue" alt="stars" />
-  <img src="https://img.shields.io/github/followers/joshi-07?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=joshi-07&style=for-the-badge&color=00C6FF" alt="Profile Views" />
+  <img src="https://img.shields.io/github/stars/joshi-07?style=for-the-badge&color=blueviolet" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/joshi-07?style=for-the-badge&color=blue&logo=github" alt="Followers" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-🎓 Engineering Student | 💻 Full-Stack Developer | ✨ Creative Designer  
-- 🔹 Skilled in **Python**, **C++**, **JavaScript**, **CSS**, and **React**  
-- 🚀 Passionate about building user-friendly, responsive web apps  
-- 🌱 Currently learning **GSAP animations** and **Tailwind CSS**  
-- 🧠 Loves merging design and functionality for modern web experiences  
 
----
+🎓 **Engineering Student** | 💻 **Full-Stack Developer** | 🎨 **Creative Designer**  
 
-## 🔭 Currently Working On
-- Building a **modern portfolio** with Tailwind + GSAP  
-- Improving UI/UX design and animation skills  
-- Learning AI-based web integration and automation  
+💡 Passionate about crafting **interactive, clean, and aesthetic web experiences**.  
+🌱 Currently exploring **GSAP**, **Tailwind CSS**, and **AI-based Web Integration**.  
+🎮 Loves **gaming**, **minimal UI**, and **turning creative ideas into code**.  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20UI%2FUX-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-GSAP%20%7C%20Tailwind-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-Build%20AI%20Integrated%20Web%20Apps-green?style=flat-square" />
+</p>
 
 ---
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,nodejs,git,github,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,nodejs,tailwind,git,github,vscode,figma" />
 </p>
+
+---
+
+## 🧠 Currently Learning & Goals
+
+- 🌀 **GSAP Animations** for next-level UI motion  
+- 🎨 **Tailwind CSS** for responsive modern design  
+- 🤖 **AI Automation & Web APIs** integration  
+
+**2025 Goals:**
+- 🚀 Build an AI-based productivity project  
+- 🧩 Contribute to Open Source  
+- 💼 Launch personal developer portfolio site  
 
 ---
 
 ## 💼 Featured Projects
-| Project | Description | Tech |
+
+| 🚀 Project | Description | Tech |
 |:---|:---|:---|
-| 🎒 [**Digital Notes Wallet**](https://github.com/joshi-07/dbit-notes-wallet) | Store and manage digital notes efficiently | HTML, CSS, JS |
-| 🎮 [**Mini Arcade Game**](https://github.com/joshi-07/mini_arcade_game) | Fun JavaScript-based arcade game | JS, HTML, CSS |
+| 🎒 [**Digital Notes Wallet**](https://github.com/joshi-07/dbit-notes-wallet) | Manage & store notes efficiently | HTML, CSS, JS |
+| 🎮 [**Mini Arcade Game**](https://github.com/joshi-07/mini_arcade_game) | Fun browser-based mini games | JS, HTML, CSS |
 | 🧾 [**Resume Builder**](https://github.com/joshi-07/resume_app) | Create professional resumes online | JS, CSS |
-| 🌐 [**Portfolio Website**](https://github.com/joshi-07/my_portfolio) | Showcase of my projects and skills | HTML, CSS, JS |
+| 🌐 [**Portfolio Website**](https://github.com/joshi-07/my_portfolio) | Showcase of projects & design style | HTML, CSS, JS |
+
+> 🖌️ *More coming soon – stay tuned for next-gen projects!*
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshi-07&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joshi-07&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshi-07&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=joshi-07&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joshi-07&theme=tokyonight&no-frame=true&margin-w=5&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshi-07&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🚧 Pinned Projects
+## 🪄 GitHub Activity Snake (Upgraded)
+
 <p align="center">
-  <a href="https://github.com/joshi-07/my_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshi-07&repo=my_portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/joshi-07/dbit-notes-wallet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joshi-07&repo=dbit-notes-wallet&theme=tokyonight&hide_border=true" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joshi-07/joshi-07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joshi-07/joshi-07/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/joshi-07/joshi-07/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+> 🐍 *The snake now uses a modern gradient color and smooth motion path.*
+
+*(To enable this upgraded snake animation, I’ll show setup steps below.)*
+
+---
+
+## 🌈 Fun Facts
+
+- 🕹️ Can debug faster with Lo-Fi beats 🎧  
+- ☕ Fueled entirely by caffeine and curiosity  
+- 💭 Believes **“Good design is invisible, great design is emotional.”**  
+- 🧩 Writes clean code with a hint of chaos energy  
+
+---
+
+## 🎧 Vibe Check
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zlj6t75guvssytszxrpnz3z3g4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" />
+</p>
+
+> “Code. Create. Repeat.”  
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:sughoshajoshi07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sughosha-joshi"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/joshi-07"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/sughosha_joshi_07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🪄 GitHub Activity Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-</picture>
-
----
-
-## 🎵 Vibe Check
-> "Code. Create. Repeat."  
-🎮 Gamer | 🎧 Lo-fi Aesthetic | ☕ Fueled by caffeine and curiosity  
-
----
-
-## 📫 Connect With Me
 <p align="center">
-  <a href="mailto:sughoshajoshi07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
-  <a href="https://www.linkedin.com/in/sughosha-joshi"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://github.com/joshi-07"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-  <a href="https://www.instagram.com/sughosha_joshi_07/"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Thank%20You%20for%20Visiting!-blueviolet?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
