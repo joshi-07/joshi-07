@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me  
 
-🎓 **Engineering Student** | 💻 **Full-Stack Developer** | 🎨 **Creative Designer**  
+🎓 **Engineering Student** | 💻 **Full-Stack Developer** | 🎨 **Creative Designer**   
 
 💡 Passionate about crafting **interactive, clean, and aesthetic web experiences**.  
 🌱 Currently exploring **GSAP**, **Tailwind CSS**, and **AI-based Web Integrations**.  
