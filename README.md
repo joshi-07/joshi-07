@@ -1,130 +1,102 @@
-<!-- 🌌 Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sughosha+K+Joshi!;Full-Stack+Developer+%26+Creative+Designer;Turning+Ideas+into+Reality+Through+Code;Design+✨+Code+⚙️+Innovate+🚀" alt="Typing SVG" />
-</p>
+# Sughosha K Joshi
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&reversal=true"/>
-</p>
+### Information Science Engineering Student | Frontend & Full-Stack Developer
 
-<!-- Badges and Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joshi-07&style=for-the-badge&color=00C6FF" alt="Profile Views" />
-  <img src="https://img.shields.io/github/stars/joshi-07?style=for-the-badge&color=blueviolet" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/joshi-07?style=for-the-badge&color=blue&logo=github" alt="Followers" />
-</p>
-
----
-
-## 👨‍💻 About Me  
-
-🎓 **Engineering Student** | 💻 **Full-Stack Developer** | 🎨 **Creative Designer**   
-
-💡 Passionate about crafting **interactive, clean, and aesthetic web experiences**.  
-🌱 Currently exploring **GSAP**, **Tailwind CSS**, and **AI-based Web Integrations**.  
-🎮 Loves **gaming**, **minimal UI**, and **turning creative ideas into reality**.  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20UI%2FUX-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-GSAP%20%7C%20Tailwind-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Goal-AI%20Integrated%20Web%20Apps-green?style=flat-square" />
+<p align="left">
+  <a href="https://joshi-07.github.io/my_portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-joshi--07.github.io-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sughosha-k-joshi-013b35417">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/joshi-07">
+    <img src="https://img.shields.io/badge/GitHub-joshi--07-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,nodejs,tailwind,git,github,vscode,figma" />
+## About
+
+I am an Information Science Engineering student at **Don Bosco Institute of Technology, Bengaluru**, focused on building modern software experiences through **frontend engineering, full-stack development, and interface design**.
+
+My work combines **clean architecture, responsive UI systems, interactive experiences, and practical problem solving**. I enjoy transforming ideas into functional products with an emphasis on usability, visual consistency, and maintainable code.
+
+Currently expanding my expertise in **GSAP-based motion design, Tailwind CSS, AI-integrated applications, and modern web architectures**.
+
+---
+
+## Technical Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio" />
 </p>
 
 ---
 
-## 🧠 Currently Learning & Goals
+## Core Interests
 
-- 🌀 **GSAP Animations** for next-level UI motion  
-- 🎨 **Tailwind CSS** for responsive modern design  
-- 🤖 **AI & Automation APIs** for smarter web apps  
-
-**2025 Goals:**
-- 🚀 Build an **AI-based productivity tool**  
-- 🧩 Contribute to **open-source**  
-- 💼 Launch **personal dev portfolio website**  
-
----
-
-## 💼 Featured Projects
-
-| 🚀 Project | Description | Tech |
-|:---|:---|:---|
-| 🎒 [**Digital Notes Wallet**](https://github.com/joshi-07/dbit-notes-wallet) | Manage & store notes efficiently | HTML, CSS, JS |
-| 🎮 [**Mini Arcade Game**](https://github.com/joshi-07/mini_arcade_game) | Fun browser-based mini games | JS, HTML, CSS |
-| 🧾 [**Resume Builder**](https://github.com/joshi-07/resume_app) | Create professional resumes online | JS, CSS |
-| 🌐 [**Portfolio Website**](https://github.com/joshi-07/my_portfolio) | Showcase of projects & design style | HTML, CSS, JS |
-
-> 🖌️ *More coming soon – stay tuned for next-gen projects!*
+- Frontend Engineering & Responsive Web Interfaces
+- UI/UX Engineering & Interaction Design
+- Full-Stack Web Application Development
+- Animation & Motion Interfaces
+- AI-Integrated Web Applications
+- Data Structures & Algorithmic Problem Solving
+- Open Source Development
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshi-07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joshi-07&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
-</p>
+### Digital Notes Wallet
+A web-based platform designed to organize and manage academic notes through a structured digital interface.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joshi-07&theme=tokyonight&no-frame=true&margin-w=5&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshi-07&theme=tokyo-night" />
-</p>
+**Tech:** HTML, CSS, JavaScript  
+**Repository:** [dbit-notes-wallet](https://github.com/joshi-07/dbit-notes-wallet)
 
 ---
 
-## 🪄 GitHub Activity Snake
+### Mini Arcade Game
+A browser-based collection of lightweight interactive games focused on client-side logic, user interaction, and responsive interface design.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-> 🐍 *Animated snake showcasing your daily contributions in a neon gradient style.*
+**Tech:** JavaScript, HTML, CSS  
+**Repository:** [mini_arcade_game](https://github.com/joshi-07/mini_arcade_game)
 
 ---
 
-## 🌈 Fun Facts
+### Resume Builder
+A web application for creating structured professional resumes through reusable templates and automated document generation.
 
-- 🕹️ Can debug faster with Lo-Fi beats 🎧  
-- ☕ Fueled entirely by caffeine and curiosity  
-- 💭 Believes **“Good design is invisible, great design is emotional.”**  
-- ⚡ Writes clean code with a hint of chaos energy  
-
----
-
-## 🎧 Vibe Check
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zlj6t75guvssytszxrpnz3z3g4&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117" />
-</p>
-
-> “Code. Create. Repeat.”  
+**Tech:** JavaScript, CSS, Python, Flask  
+**Repository:** [resume_app](https://github.com/joshi-07/resume_app)
 
 ---
 
-## 📫 Connect With Me  
+### Personal Portfolio
+A responsive developer portfolio showcasing projects, technical capabilities, and interactive web experiences.
 
-<p align="center">
-  <a href="mailto:sughoshajoshi07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sughosha-joshi"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/joshi-07"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/sughosha_joshi_07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+**Tech:** HTML, CSS, JavaScript, Three.js  
+**Live:** [joshi-07.github.io/my_portfolio](https://joshi-07.github.io/my_portfolio/)  
+**Repository:** [my_portfolio](https://github.com/joshi-07/my_portfolio)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## Current Focus
+
+```text
+Frontend Engineering    →  Advanced UI systems & responsive interfaces
+Motion Design           →  GSAP & interaction-driven animations
+AI Integration          →  AI-powered web applications
+Full-Stack Development →  Scalable application architecture
+Open Source             →  Collaborative development & contributions
